@@ -1,0 +1,9 @@
+a)  Declare um arranjo de 10 elementos inteiros e preencha-os com valores aleatórios entre 0 e 100 gerados por uma função randômica. 
+
+b) Imprima os elementos do arranjo em uma só linha, formatando a saida de modo que cada elemento do arranjo ocupe o espaço de 5 caracteres. Termine a linha com uma nova linha.  
+
+c) Solicite um valor ao usuário. Insira  este valor na ultima posicao do arranjo, deslocando os elementos anteriores uma casa à esquerda. O primeiro elemento do arranjo será descartado. Atenção, o arranjo deve ser efetivamente alterado.  Imprima novamente o arranjo;
+
+d) substituir  os elementos do arranjo que estão em posições de índice par pelo valor deste índice. (por exemplo a[2] = 2;) Imprimir novamente;
+
+e) informar quantos elementos do arranjo modificado em d) têm valor superior à media dos valores do arranjo;
